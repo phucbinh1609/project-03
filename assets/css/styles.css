@@ -439,7 +439,7 @@ a {
     margin-top: 70px;
 }
 
-.memeber-item:hover .member-item__img-bg {
+.member-item:hover .member-item__img-bg {
     transform: scale(1.1);
 }
 
